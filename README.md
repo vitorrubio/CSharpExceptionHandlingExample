@@ -104,3 +104,7 @@ Repositório no github: [https://github.com/vitorrubio/CSharpExceptionHandlingEx
 [https://www.tutorialspoint.com/Built-in-Exceptions-in-Chash](https://www.tutorialspoint.com/Built-in-Exceptions-in-Chash)
 
 [https://www.c-sharpcorner.com/article/exception-handling-in-C-Sharp/](https://www.c-sharpcorner.com/article/exception-handling-in-C-Sharp/)
+
+[https://docs.microsoft.com/pt-br/previous-versions/visualstudio/visual-studio-2015/code-quality/ca2201-do-not-raise-reserved-exception-types?view=vs-2015&redirectedfrom=MSDN](https://docs.microsoft.com/pt-br/previous-versions/visualstudio/visual-studio-2015/code-quality/ca2201-do-not-raise-reserved-exception-types?view=vs-2015&redirectedfrom=MSDN)
+
+[https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-localized-exception-messages](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-localized-exception-messages)
