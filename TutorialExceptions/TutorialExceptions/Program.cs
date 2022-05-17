@@ -119,6 +119,8 @@ namespace ExceptionHandling
                 //Jeito_Certo_1(); //loga a exception, mas deixa ela ser propagada
 
                 Jeito_Certo_2(); //simplesmente deixa ela ser propagada
+
+                //teste
             }
             catch(Exception err)
             {
